@@ -31,3 +31,5 @@ https://www.catalyzex.com/s/fraud%20detection
 ### Blog
 
 https://curiousily.com/posts/credit-card-fraud-detection-using-autoencoders-in-keras/
+
+https://towardsdatascience.com/unsupervised-anomaly-detection-in-python-f2e61be17c2b#:~:text=Unsupervised%20anomaly%20detection%20involves%20an,the%20%E2%80%9Cnormal%E2%80%9D%20data%20points.
